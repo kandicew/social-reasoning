@@ -1,0 +1,2033 @@
+,conversation,power
+0,"A: you know, i- i- i- i-
+      some compromise between always depending on the first fifteen frames and
+      a- a- always depending on a - a pause is - is - is a good idea.
+      Uh, maybe you have to weight the estimate from the first -teen - fifteen frames more heavily than - than was done in your first attempt. But -
+      Mm-hmm.
+B: but -
+A: Yeah, I guess.
+B: Yeah.
+A: Um.
+      No, I mean -
+       Um,
+      do you have any way of assessing how well or how poorly the noise estimation is currently doing?
+      Mmm.
+B: No, we don't.
+      Yeah.
+",B
+1,"A: Um
+      It's probably a good time to look at what's really going on and seeing if there's a - there's a way to combine the best ideas while at the same time not blowing up the amount of, uh, resources used, cuz that's - that's critical for this - this test.
+      Do we know anything about - who - who's was it that had the lowest on the dev set?
+B: Um, uh, the, uh, the- there were two systems that were put forth by a combination of - of, uh, French Telecom and Alcatel.
+A: And, um they - they differed in some respects, but they e- em- one was called the French Telecom Alcatel System the other was called the Alcatel French Telecom System,  uh, which is the biggest difference, I think.
+      But - but there're - there're - there're some other differences, too.
+      Uh, and - and, uh, they both did very well, you know?
+      Uh-huh.
+B: So,  um, my impression is they also did very well on - on the - the, uh, evaluation set, but, um, I - I- we haven't seen - you've- you haven't seen any final results for that yeah.
+A: And they used - the main thing that - that they used was spectral subtraction? Or
+B: There is a couple pieces to it.
+",B
+2,"A: one night. So. Anyway.
+B: So, s- six A_M, in front.
+A: O_K.
+B: Six A_M in front.
+      O_K.
+A: Uh, I'll be here.
+B: Uh - I'll - I'll - I'll -
+      I'll give you my phone number,
+       If I'm not here for a few m- after a few minutes then
+       Wake you up.
+",A
+3,"A: It's just easier to do.
+      Well, in the new test, actually, that's not true.
+B: So -
+      Again, if this - if these new segmentations work O_K,
+      Yeah.
+A: then we - then it's a fair -
+B: it's a completely fair  test.
+      So, how do you determine what you use to group together to be a - a - ?
+A: You group together all the data coming in through one channel
+B: and where  Thilo's speech detector has -
+      has determined that there is speech.
+      And that speech is - is deemed to  come  from that speaker, whether that's true or not.
+      So if you get some cross-talk from another microphone, then you just
+      process this - it as if it were from that speaker.
+",B
+4,"A: pushing it one step further, when you get to construction grammar and stuff, what you'd like to be able to do is say you have this  parser  which is much fancier than the parser that comes with
+      uh SmartKom, i- that - that actually  uses  constructions and is able to tell  from  this  construction
+      The SmartKom.
+B: that there's uh something about the intent - you know, the actual what people wanna do or what they're referring to and stuff,
+A: Mm-hmm.
+B: in- independent of
+A: whether it - about - what is this or where is it or something,
+      that you could tell  from  the construction, you could pull out deep semantic information which you're gonna use in a general  way.
+      Somehow you'd know that you needed to find out whether there - something was a landmark or something like that?
+B: So that's the -
+",B
+5,"A: then, depending on how  different  it is,
+      uh you can get uh, a reduction in performance.
+      Mmm.
+B: And the question is now how to -
+A: how to get one and not the other? Or how to - how to ameliorate
+      the - the problems.
+      Mmm.
+B: Um, because it - it certainly does - is nice to have in there, when it -  when there  is  something  like  the
+A: Mm-hmm.
+B: training data.
+",B
+6,"A: theoretically. So.
+      I was just wondering - I - I -
+      Well, I think that's a good idea.
+B: Yeah.
+A: Did - did you  do  that or - tha- that's a -
+B: Um. No. That's what - that's what we're gonna do  next  as soon as I finish this other thing. So.
+A: Yeah.  Yeah. No, well, that's a good idea.
+B: I - I -
+      i- Yeah.
+      We just want to  show.  I mean, it - everybody  believes  it, but you know, we just -
+",A
+7,"A: And I - I - I - I not sure that i-
+B: eh, the -
+      the way - o- to - ob- the way to obtain
+      the - the instantaneous frequency is  right,
+      or it's - it's not right. Eh,
+      Yeah.
+A: I haven't enough file- feeling to -
+B: to -
+      to  distinguish   what happened.
+      Yeah, I'd like to talk with you about it. If - if - if, uh - If I don't have enough time and y-
+A: you wanna discuss with someone else - some- someone else
+      besides us that you might want to talk to, uh, might be Stephane.
+      Yeah.
+B: I talked with Stephane and - and Thilo and,
+      Yeah and - and Thilo, yeah.
+",B
+8,"A: Uh.
+B: These are the two - the mixed, the big signal is for clean.
+A: Well, I'm s- uh -
+B: There's - None of these axes are labeled, so I don't know what this - What's this axis?
+      Uh this is uh - this axis is
+A: nnn, ""frame"".
+      Frame.
+B: Mm-hmm.
+",A
+9,"A: Yeah, that's true, that's true.
+B: And at least  supposedly  the way they work is by feeding them
+A: Yeah, by fixing up  transcripts.
+B: what is  the output of the recognizer.
+A: So maybe it depends on what the software tools are like.
+      If it's - you know, if they can easily flip through stuff and get to the right thing, or do you point, or I don't know.
+      Yeah, but - Yeah.
+B: There's supposed to be some out - out - out-of-work shepherders or something in  Scotland but -
+",B
+10,"A: limit the detail of our ontology or types of places that someone could go, right?
+      But who is it that has to care about this, or what component of the system?
+      Oh, well, uh - th- I think there are two places where it comes up. One is
+B: uh - in the - th- these people who are gonna take this and - and try to do speech with it.
+      Mm-hmm.
+A: uh - Lots of pronunciations of th- of the same thing are going to give you
+B: better data
+      than
+      l- you know, a few pronunciations of lots more things.
+      O_K.
+A: That's one.
+B: So we would rather just
+",A
+11,"A: Yeah.
+B: So wh- yeah, where this
+      fits into the rest in - in  my  mind, I guess, is that um
+      we're looking at different
+      ways that we can combine
+      uh different kinds of -
+      of rep-
+      front-end representations
+      um in order to get robustness under difficult or even,
+      you know,
+      typical conditions.
+      And  part  of it, this robustness, seems to come from
+      uh
+      multi-stream or multi-band sorts of  things  and Saul seems to have
+      a reasonable way of  looking  at it, at least for one -
+      one um articulatory feature.
+      The  question  is is can we learn from that
+      to change some of the other methods we have, since -
+      I mean,  one  of the things that's  nice  about what he had I thought was that -
+      that it -
+      it um -
+      the  decision   about  how
+      strongly to train the different pieces is based on
+      uh a - a reasonable criterion with hidden variables rather than
+      um
+      just assuming
+      that you should train e- e-  every
+      detector
+      uh
+      with equal strength
+      towards uh it being this phone or that phone.
+      Hmm.
+A: Right?
+B: So it - so um
+      he's got these
+      um
+      uh
+      uh
+      he ""AND's"" between these different
+      features.
+      It's a soft ""AND"", I guess but in - in principle
+      you - you wanna get a strong concurrence of all the different things that indicate something
+      and then he ""OR's"" across the different - soft-""OR's"" across the different uh
+       multi-band  channels.
+      And um
+      the weight
+      yeah, the  target
+      for the training of the ""AND"" - ""AND'ed"" things
+      is something that's kept
+      uh as a hidden variable,
+      and is learned with E_M.
+A: So he doesn't have -
+      Whereas what  we  were doing is -
+B: is uh
+      taking
+      the  phone  target and then just back propagating
+      from  that
+      which means that it's -
+      it's uh
+      i- It  could  be for instance
+      that
+      for a particular
+      point in the data
+      you don't want to um
+      uh
+      train a particular band - train the
+      detectors for a particular band. You - you wanna  ignore
+      that band, cuz that's a - Ban- band is a noisy - noisy measure.
+      Mm-hmm.
+",A
+12,"A: um, so we could sort of isolate them or whatever in terms of the - the  top  layer.
+      Mm-hmm.
+B: And then the bottom layer is just the Mode.
+A: So, let's - let's - Yeah, I don't understand it. Let's go -
+B: So.
+A: Slide all the way up so we see what the p- the p-
+B: very  bottom  looks like, or is  that  it?
+      Yeah, there's just one more node and it says ""Mode"" which is the decision between the -
+",A
+13,"A: Yeah.
+B: Um
+A: My experience with the Gnu compatibility library is  really
+      it's just as hard and just as easy to port to any system.
+      Right? The Windows system isn't any harder because it - it looks like a B_S_D system.
+      Mm-hmm.
+B: It's just, you know, just like all of them, the ""include"" files are a little different and the function calls are a little different.
+A: Right.
+B: So I - it  might  be a little easier but it's not gonna be a lot easier.
+",A
+14,"A: Yeah, I mean the other thing that I was  hoping  to do in the  first  place was to turn it into some kind of portable thing so you could wheel it around. Uh.
+B: Right.
+A: But.
+B: Um,
+      and -
+      Well, I know that space is really scarce on - at least in C_S.
+A: Uh -
+B: You know, to - to actually find a room that we could use regularly might actually be very difficult.
+",A
+15,"A: Yeah.
+B: Yeah, this is the -
+A: Right. I mean the -
+B: the reason I had suggested the scatter f- p- features is I used to do this a lot,
+      when we had
+      thirteen or fifteen or twenty features  to look at.
+A: um
+B: Because something is a  good  feature
+      uh by itself,
+      you don't really know how it'll behave in combination and so it's nice to have as many -
+      as many together at the same time as possible
+      in uh in some reasonable visual form. There's cool graphic things people have had sometimes to put together three or four in some funny -
+",A
+16,"A: Uh, I don't know. Probably we shouldn't - probably we shouldn't talk about funding stuff.
+      I don't know how much of it's public.
+B: Right.
+      Yeah.
+A: But anyway there's - there's - there's uh, uh other activities that are going on there and - and uh - and NIST and U_W. So.
+      Um. But - but yeah I thin- I think that at least the message we can tell other people is that our experience is - is quite positive with the Sony, uh,  radio-mikes .
+      Right.
+B: Now the  one  thing that you  have  said that actually concerns me a little is you're talking about changing the headsets meaning changing the connector,
+A: which means some hand-soldering or something, right?
+      Uh, no, we're having the -  them   do  it. So it's so- hand-soldering it, but I'm not doing it.
+B: No?
+",B
+17,"A: So maybe just with the - the - the Meeting Recorder set of the -
+B: And we can exclude - we don't need to recognize the  non-natives, because we know that -
+A: De- th- that you did before.
+B: I mean, in fact, we excluded them previously
+A: Yeah. So we want to do the same - same thing.
+B: from -
+",A
+18,"A: So it seems like the right thing to do is to - on the - on the terminal's side, take what they did, if it - if it does seem to generalize well to German and Danish, uh, take what they did add in a filter, and add in some stuff on the server's side and - and - and that's probably a reasonable standard.
+B: Um
+      They are working on this already? Because - yeah, Su- Sunil told me that he was trying already to put some kind of, uh, filtering in the   France Telecom.
+A: Uh
+B: Yeah, so that's - that's - that's what
+       That   would be ideal - would be is that they could, you know, they could actually show that, in fact, a combination of some sort,  uh, would work even better than what - what any of the systems had.
+      And, um, then it would - it would, uh  be something to - to discuss in the meeting.
+      But, uh, not clear what will go on.
+      Um, I mean, on the one hand, um, sometimes people are just anxious to get a standard out there.
+      I mean, you can always have another standard after that, but  this process has gone on for a while on - already and - and people might just wanna pick something and say, ""O_K, this is it.""
+      And then, that's a standard.
+      Uh, standards are always optional.
+      It's just that, uh, if you disobey them, then you risk not being able to sell your product, or
+      Uh  um
+      And people often work on new standards while an old standard is in place and so on.
+      So it's not final even if they declared a standard.
+      The other hand, they might just say they just don't know enough yet to - to declare a standard.
+      So  you - you - you will be - you will become experts on this and know more - far more than me about the tha- this particular standards process once you - you go to this meeting.
+      So, be interested in hearing.
+      So, uh, I'd be, uh, interested in hearing, uh, your thoughts now
+      I mean you're almost done.
+      I mean, you're done in the sense that, um, you may be able to get some new features from Sunil, and we'll re-run it.
+      Uh, but other than that, you're - you're basically done, right?
+      So, uh, I'm interested in hearing - hearing your thoughts about  where you think we should go from this.
+      Yeah.
+A: I mean, we tried a lot of things in a hurry, and, uh, if we can back off from this now and sort of take our time with something, and not have doing things quickly be quite so much the constraint, what - what you think would be the best thing to do.
+B: Uh, well
+",A
+19,"A: Yeah.
+B: And so I have some scripts that let you very quickly extract the sections of each utterance. But I haven't been ru- I haven't been  doing  that.
+A: Um, if I  did  that,
+      is someone gonna be working on it?
+      Uh, yeah, I - I think
+B: I mean, is it something of interest?
+A: definitely s- so- Absolutely. Yeah, whoever we have working on
+B: O_K.
+",A
+20,"A: Right.
+B: And then  do some segmenting and recognition - initial recognition
+      would be interesting to do.
+      Yeah, although it - it - it - it may be separating out these numbers  from the rest. Yeah.
+A: That's what I mean.
+B: And then
+A: Yeah just doing a digits on it - uh, connected digits.
+B: Yeah  and uh
+",B
+21,"A: even if the features are not  normalized. It - it will learn how to normalize and -
+      Right.
+B: O_K, but I think that
+      Mmm.
+A: given the pressure of time we probably want to draw -
+B: because of  that    especially,  we wanna draw some  conclusions  from this, do some  reductions
+       in what we're  looking  at,
+      Yeah.
+A: and make some  strong  decisions for what we're gonna do  testing  on before next  week.
+B: So do you - are you - w-
+      Yeah   I'd  -
+",A
+22,"A: then  maybe it doesn't  matter
+B: that we can't have enough -
+      I mean,
+      what you wanna do is - is build up these categories that are - that are best for word recognition.
+      Right.
+A: Right.
+      And - and somehow if that's built into the loop of what the categories - I mean, we do this every day
+B: Ah.
+A: in this very  gross  way of - of running o- a thousand experiments because we have fast computers and picking the thing that has the best word error rate.
+B: Right.
+",A
+23,"A: With two an- two hundred and seventy.
+B: If - Yeah, if you add the c- delta comp- delta computation which is done afterwards.
+       Two-seventy.
+A: Oh.
+      Um -
+B: So it's two-twenty. I- the- is this - are these twenty-millisecond
+A: frames? Is that why? Is it after downsampling? or -
+       The two-twenty is one hundred milliseconds for the um - No, it's forty milliseconds for t- for the, uh,
+B: uh,
+      cleaning of the speech.
+      Um - then there is, um, the neural network which use
+      nine frames. So it adds forty milliseconds.
+      a-
+",B
+24,"A: So.
+B: So have the um - when is the next uh evaluation?  June  or something?
+A: Which? Speaker recognition?
+B: No, for uh Aurora?
+A: Uh there, we don't know about evaluation, next  meeting  is in June. And uh uh but like getting - get together.
+B: Hmm.
+",A
+25,"A: and you tried it out on, uh - on say  digits,
+B: On T_I-digits? O_K. Yeah.
+A: you know, d- Was that experiment done?
+B: No, not yet.
+A: Yeah, O_K.
+B: Uh, then does that,
+",A
+26,"A: I'm - I'm kind of questioning that. But -
+      Well, i- it -
+B: But -
+A: Well, on a more basic level, also, it means that
+B: that  third  experiment, there are actually  two  differences between the other experiments, not one.
+      Right.
+A: So, it's hard to know -
+B: It involves retraining and it involves a -
+",B
+27,"A: And it - Remind me again, the ""highly mismatched"" means that the -
+B: Clean training and -
+A: Uh, sorry?
+B: It's clean training - Well, close microphone training and
+A: Close mike training -
+B: distant microphone, um, high speed, I think. Well -
+",A
+28,"A: eh What, I - I mean, what- what is the effect
+B: We-
+A: of the low
+B: signal to - to - to noise relation, you know, eh with -
+      Well, I think - I think - I think it's not a - it's not at all unreasonable. It makes sense to start with the simpler signal
+A: because if you have features which don't - aren't even
+      helpful
+B: in the  high  signal-to-noise ratio, then there's no point in putting them into the  low  signal ratio, one would  think,  anyway.
+",B
+29,"A: maybe, s- specific - meeting-specific things that might be relevant.
+      D_T_D?
+B: uh, the data, so that, you know, his X_M_L thing?
+A: Oh.
+B: You got
+A: the Data Type Definition -
+      Oh, O_K.
+B: the Document Type Definition p- part
+",A
+30,"A: O_K.
+B: So, uh
+      You can fill those out, uh  after, actually, so
+      So, I got, uh  these results from, uh, Stephane.
+      Also, um, I think that, uh  um  we might hear later today, about other results.
+      I think s- that, uh, there were some other very good results that we're gonna wanna compare to.
+      But,  r- our results from other - other places, yeah.
+      I- I'm sorry? I didn't-
+A: Um, I got this from you  and then I sent a note to Sunil about the - cuz he has been running some other systems other than the - the ICSI O_G_I one.
+B: Yeah.
+A: Mm-hmm.
+      Oh yeah.
+      So  um, I wan- wanna - wanna see what that is.
+B: But, uh, you know, so we'll see what it is comparatively later.
+      But  it looks like, um
+      M- yeah.
+",A
+31,"A: training s-  Right . So -
+      Yeah, the training targets actually, the two of the main issues perhaps are still the language dependency
+      and the noise dependency. And
+      perhaps to try to reduce the language dependency,
+      we should focus on
+      finding
+      some other kind of training targets.
+      Mm-hmm.
+B: And labeling s- labeling seems important
+A: uh, because of TIMIT results.
+      Mm-hmm.
+B: Uh. For moment you use - we use phonetic targets but we could also use articulatory targets, soft targets,
+A: and perhaps even, um
+      use networks that doesn't do classification but just regression so
+      uh, train to have neural networks that
+      um,
+      um,
+      Mm-hmm.
+B: uh, does a regression
+",A
+32,"A: uh
+      pretty much like the first line in yellow
+      except that we don't have this K_L_T on the first - on the left part of the diagram.
+      We just have the features
+      as they are.
+      Mm-hmm.
+B: Um
+A: Yeah.
+B: Yeah so when we do this weighted measure we should compare the two cuz it might even come out better.
+      Mm-hmm.
+A: And it's - it's - it's a little - slightly simpler.
+B: Yeah.
+",A
+33,"A: So it was like, uh, forty-five cepstrum plus twenty-three mel -  log  mel.
+B: Yeah.
+A: And - and , just, like, it gave me the baseline performance of the Aurora, which is like
+B: zero improvement.
+      Yeah.
+A: Yeah.
+      So I just tried it on Italian just to know that everything is -  But I -  I  didn't export  anything  out of it because it was, like, a weird feature set.
+B: Yeah.
+",B
+34,"A: Yeah, I have a busy weekend but after that -
+B: Yeah, gung-ho.
+      O_K. Yeah, so - so someti- sometime next week.
+A: Great,
+B: Now if it turns out that that effort leads us into
+A: some big hole
+      Mm-hmm.
+B: that's fine.
+",B
+35,"A: Because see what you are fitting is the multidimensional Gaussian, right?
+      Mm-hmm.
+B: It's a - it has - it has uh thirty-nine dimensions, or thirteen dimensions if you g- ignore deltas and double-deltas.
+A: Mm-hmm.
+B: Mm-hmm.
+      So in order - if you - in order to make dimension which - which  Stephane  sees uh less important,
+A: uh uh I mean not - not useful, less important, what you do is that this particular component in the model
+      you can multiply by w- you can - you can basically de- weight  it in the model. But you can't do it in a - in a test data because you don't have a model for th- I mean
+      uh when the  test  comes, but what you can  do  is that you put this particular
+       component  in - and - and you  compress  it.
+      That becomes uh th- gets less variance, subsequently becomes less important.
+      Couldn't you just do that to the test data and  not
+B: do  anything  with your  training  data?
+      That would be very bad, because uh your t- your model was trained uh expecting
+",B
+36,"A: Yeah.
+      O_K, well, i- i- let's - let's see what we can get.
+B: I mean, it - it - I think that if we're aiming at - at uh, groups of graduate students and professors and so forth who are talking about things together,
+      Yes, that's fine.
+A: and it's from the Berkeley campus, probably most of it
+B: That's fine.
+A: Exactly. And my point in m- in my note to Liz was
+      will be O_K, but -
+B: O_K.
+      I think that undergrads are an iff- iffy population.
+",A
+37,"A: which is like
+       final  filter is acting on the input noisy speech rather than on the cleaned up.
+      So this is more like I'm doing Wiener filter twice,
+      but the only thing is that the second time I'm actually smoothing the filter and then cleaning up the cleaned up spectrum first level.
+      O_K.
+B: And so that - that's - that's what the difference is. And actually I tried it on s- the original clean -
+A: I mean, the original spectrum where, like, I - the second time I estimate the filter but actually clean up the
+      noisy speech rather the c- s- first -
+      output of the first stage and that doesn't -
+      seems to be a - giving, I mean, that much improvement. I - I didn- didn't run it for the whole case.
+      And -
+       and what I t- what I tried was, by using the  same  thing but - Uh, so we actually found that
+      the VAD is very, like, crucial. I mean, just by changing the  VAD  itself gives you the - a lot of improvement by instead of using
+      Mm-hmm.
+B: the current VAD, if you just take up the VAD output from the channel zero,
+A: when -  instead of using channel zero and channel one,
+      because that was the p- that was the reason why I was  not  getting a lot of improvement for estimating  the  noise.
+      So I just used the channel zero VAD to estimate the noise so that it gives me some reliable mar-
+      markers for this noise estimation.
+      What's a channel zero VAD? I'm - I'm confused about that.
+B: Um, so, it's like -
+",A
+38,"A: Yeah, you know  actually,  this reminds me of something that happened uh when I was at B_B_N. We were playing with putting um  pitch
+B: Mm-hmm.
+A: into the  Mandarin  recognizer.
+B: And this particular  pitch  algorithm
+      um
+      when it didn't think there was any  voicing,  was spitting out  zeros.
+      So we were getting -
+      uh when we did  clustering,  we were getting
+      groups uh of  features
+      p- Pretty new outliers, interesting outliers, right?
+A: yeah, with -
+B: with a mean of zero and basically zero  variance.
+      Variance.
+",B
+39,"A: O_K. So I guess the way it would work is that you'd get -
+B: There'd be some point where you say, ""O_K, this is their version-one"" or whatever,
+      and we get these V_A_D labels and features and so forth for all these test sets from them,
+      Mm-hmm.
+A: and then um,
+B: uh, that's what we work with. We have a certain level we try to improve it with this other path
+      and then um,
+      uh, when it gets to be uh,
+      January
+      some point uh,
+      we say, ""O_K we - we  have  shown that we can improve this, in this way.  So now uh  um  what's your  newest  version?""
+A: And then maybe they'll have something that's  better  and then we - we'd combine it.
+B: This is always hard. I mean I - I - I used to work  with uh
+      folks who were trying to improve a good
+      uh, H_M_M system with uh - with a neural net system
+      and uh, it was  a common problem that you'd -
+      Oh, and this - Actually, this is true not just for neural nets but just for - in general if people were  working with uh, rescoring
+      uh, N_best lists or lattices that come - came from uh, a mainstream recognizer. Uh, You get something from the -
+      the other site at one point and you work really hard on making it better with rescoring.
+      But  they're  working really hard, too.
+      So by the time  you have uh, improved their score,
+      Mmm.
+",A
+40,"A: But why - if you're - if you're multi- if you're altering the  model,  why w- in the  test  data, why would you have to muck with the uh cepstral coefficients?
+B: Because in uh test - in uh test data you ca- don't have a model. You have uh only data. But in a - in a tr-
+A: No. But you're  running  your data through that same  model.
+B: That is true, but w- I mean, so what you want to do -
+A: You want to say if uh obs- you -
+      if you observe something like Stephane observes, that C_one is not important, you can do two things.
+      Mm-hmm.
+B: Mm-hmm.
+      If you have a trained - trained recognizer, in the model, you  know
+",B
+41,"A: Yeah.
+B: I mean uh my - my guess would be that this is - since TIMIT's read speech that this would be less of a big deal, if you went and looked at spontaneous speech it'd be more - more of one.
+A: Mm-hmm.
+B: Right.
+      Right.
+      And the other thing would be, say, if you had these ten events, you'd wanna see, well what if you took
+A: two events or four events or ten events or t- and you know, and -
+      and hopefully there should be some point at which
+      having more information doesn't tell you
+      really all that much more about what the phones are.
+      Mm-hmm.
+B: You could define
+       other  events as being  sequences  of  these  events
+       too.
+",B
+42,"A: I'm actually re-optimizing them.
+B: Although that hasn't shown to make  a big difference.
+      O_K. And the pru- the question he was asking at one point about pruning,
+A: uh -
+      Pruning - ?
+B: Remember that one?
+A: Pruning in the - ?
+B: Well, he was - he's - it looked like the probabil- at one point he was looking at the probabilities he was getting out - at the likelihoods he was getting out of P_L_P versus mel cepstrum, and they looked pretty different,
+",B
+43,"A: Oh. This moved in the - Yeah.
+B: So - so, stand- standing back from that, you sort of say there's this very detailed representation.
+A: Mm-hmm.
+B: You go to a smooth representation.  You go to a smooth representation cuz this typically generalizes better.
+A: Mm-hmm.
+B: Um,  but  whenever you smooth you lose  something,   so the question is have you lost something you can you  use?
+",B
+44,"A: And you can decode  that  now with speech that you've actually  processed  using this  longer  time, uh, subtraction.
+      Mmm.
+B: So I mean, it's - it's common that people do this sort of thing where they do more things that are more complex or require looking over more time, whatever, in some kind of second pass.
+A: Mm-hmm.
+B: O_K.
+      um, and again, if the second pass is  really,  really  fast  - Uh, another one I've heard of is - is in - in connected digit stuff,
+A: um, going back and l- and through backtrace and finding regions that are considered to be a d- a digit,
+      but, uh, which have very low energy.
+      Mm-hmm.
+B: O_K.
+      So, uh - I mean, there's lots of things you can do in second passes, at all sorts of levels. Anyway, I'm throwing too many things out. But.
+",B
+45,"A: Well. It depends how much we wanna
+B: do gamesmanship and how much we wanna do -  I mean, i- if he-
+A: it - to me, actually, even if you wanna be - play on the gamesmanship side, it can be kinda tricky. So, I mean,
+B: what you would do is set the - set the scaling factors, uh,
+      so that you got the best number for this point four five times the -  you know, and so on.
+      Mm-hmm.
+A: But they might change that - those weightings.
+B: Yeah.
+",A
+46,"A: P_L_P twelve on-line delta-delta and  M_S_G   filter  together.
+      The combination, I see.
+B: The combination, yeah. But I haven't result  at this moment.
+A: M_S_G and - and P_L_P.
+B: Yeah.
+A: And is this with the revised  on-line normalization?
+B: Ye- Uh, with the old   older , yeah.
+",A
+47,"A: So, currently d- uh, we have system that has two hundred and thirty. So,
+       Yeah .
+B: that's fine.
+A: Two thirty.
+B: Yeah.
+A: So that's the system that's described on the second point of  this  document.
+      So it's -
+B: we have to reduce it by ten milliseconds somehow.
+",A
+48,"A: and say ""Aha!
+B: th-  this  utterance is talking about an attempt to reach a goal.
+      The goal is this, the pers- the, uh traveler is that, uh the sor- w- where we are at now is is this, they've mentioned possible obstacles, et cetera.""
+      So th- the - and this is an - again attempt to get
+      very wide coverage. So if you can  do  this,
+      then the notion would be that across a  very   large  range of  domains,  you could use this deep  conceptual  basis as the  interface.
+      Mm-hmm.
+A: Mm-hmm.
+      And then,
+B: uh
+      The  processing  of that,  both  on the  input  end,
+       recognizing  that  certain   words  in a language  talk   about   containers  or  goals,  et  cetera,
+      and on the  output  end, given this kind of  information,  you can then
+      uh  make   decisions  about what  actions  to  take.
+       Provides,  they  claim,
+      a very powerful,  general
+      notion of  deep  semantics.
+      So  that's  what we're  really  doing.
+      Mm-hmm.
+A: And  Nancy  is going to - Her  talk
+B: is going to be  not  about using this in applications, but about modeling how children might  learn
+      Mm-hmm.
+",A
+49,"A: or - Shou- Yeah. But -
+B: Wh- ? But let me ask you this. What - what's the, um - ?
+A: Mmm.
+B: Do you kno- recall if the insertions were -
+A: were higher with M_S_G?
+      I don't know. I cannot tell. But -
+B: It's - it -
+      the - the error rate is higher.
+      Yeah. But you should always look at insertions, deletions, and substitutions. So -
+",B
+50,"A: Um, and so, yeah, this will be another filter which would add ten milliseconds again.
+B: Yeah.
+A: Um,
+B: yeah, and then there's a third thing,
+      is that,
+      um,
+      basically the way
+      on-line normalization was done
+      uh,
+      is just using this recursion
+      Yeah.
+A: on - on the um,
+B: um,
+      on the feature stream,
+      and - but this is a filter, so it has also a delay.
+      Uh, and when we
+      look at this filter actually it has a delay of eighty-five milliseconds. So if we -
+       Eighty - five .
+",B
+51,"A: at one side of the - for - for a particular phoneme at one side of the boundary - decision boundary and one for another phoneme at the other side.
+B: And  so there is kind of reduction of the information there that's not correct because if we change task
+       and if the phonemes are not in the same context in the new task,
+       obviously the  decision boundaries are not -
+       should not be at the same  place.
+      But the way the feature gives -
+      I di-
+A: The - the way the network gives the features is that it reduce completely the -
+B: it removes completely the information -
+       a lot of information from the - the features
+       by uh
+       uh
+       placing the decision boundaries at  optimal places for
+       one kind of  data  but
+       this is not the case for another kind of data.
+       It's  a  trade-off,  right?  Any-  anyway  go  ahead.
+A: So -
+B: Yeah. So uh what we were thinking about is perhaps
+       um one way
+       to solve this problem is increase the number of  outputs of the neural networks.
+      Doing something like, um
+       um phonemes within context and,
+      well, basically context dependent phonemes.
+      Maybe. I mean, I - I think
+",B
+52,"A: if it's got
+      um, let's say one in - in, you know, different tenses or my beliefs and  your  beliefs, or any of these other ones of - of multiple models. So
+      um
+      you know, in the long run we need to solve  both  of those and my suggestion is that we
+B: start
+A: digging into
+      them both, uh, in a way we- that, you know, th-  hopefully  turns out to be consistent, so that the -
+B: Um.
+A: And  sometimes  it's actually  easier
+B: to solve two hard problems than  one  because they  constrain  each other. I mean if you've got huge ra- huge range of possible choices
+",B
+53,"A: since things are - things are different. And I guess if the -
+B: Mm-hmm. Mm-hmm.
+A: These are all - so all of these seventy-three features are going into,
+B: um,
+      the, uh - the H_M_M.
+      Yeah.
+A: And is - are - i- i- are - are any deltas being computed of tha- of  them?
+B: Of the straight features, yeah.
+",A
+54,"A: I should tell people outside of this group too uh
+      I don't know if we're gonna need it
+      uh but
+      uh Jeff up at the
+      uh University of Washington
+      has uh gotten a hold of a uh uh some kind of server farm of uh
+      of ten uh uh multiprocessor uh I_B_M machines R_S six thousands
+      Mm-hmm.
+B: and - and uh so I think each one is four processors or something or - I don't know, eight hundred megahertz or something and
+A: there's four processors in a box and there's ten boxes and there's some kind of ti- so if - you know he's got a lot of processing power
+      and um we'd have to schedule it but if we have some big jobs and we wanna -
+      wanna - wanna run them he's -
+      he's offering it.
+      Mm-hmm.
+B: So.
+A: It's uh
+      when he was here eh uh he - he used i- not only every machine here but every machine on campus as far as I could tell, so -  so in some ways he just got his payback, but
+      Mm-hmm.
+B: uh
+",B
+55,"A: of constructions, so- some lexical and some phrasal, and - and, you know, whatever you need in order to
+B: Mm-hmm.
+A: uh, be able to then,
+B: uh, by hand,
+      you know, explain,
+      Mm-hmm.
+A: Yeah.
+      some fraction of the utterances.
+B: And so, exactly which ones will partly depend on your research interests and a bunch of other things.
+      Mm-hmm.
+",A
+56,"A: Yeah.
+B: O_K.
+A: Well, actually, I, uh - you should check with him, because he tried several different combinations.
+B: Because you end up with this huge  feature  vector, so that might be a problem, a- unless you do some form of dimensionality reduction.
+A: Yeah. I, uh, th-
+B: what I don't remember is which came out  best.  So he did one where he put o- put e- the whole thing into one K_L_T,
+      and  another  one, since the - the P_L_P things are already orthogonalized,
+      Mm-hmm.
+",A
+57,"A: But - but wait a minute. You may not need to re- uh uh retrain the m- model.
+      You just may n- may need to c- uh give uh less  weight
+      to -
+      to
+      uh a mod- uh a component of the model which represents this particular feature.
+      You don't have to  retrain  it.
+      Oh. So if you - Instead of altering the  feature  vectors  themselves,
+B: You just multiply.
+A: you - you modify the - the - the  Gaussians  in the  models.
+B: Yeah.
+A: Yep.
+      You modify the Gaussian in the  model,  but in the - in the  test  data you would have to put it in the power, but in a  training  what you c- in a  training  uh - in trained model,
+      Uh-huh.
+B: all you would have to do is to multiply a  model  by appropriate  constant.
+",B
+58,"A: Uh, I - I don't know. I think we're - we're integrated a little more tightly than happens in a lot of those cases. I think at the moment they -
+B: they say that they have a better thing we can - we - e- e-
+      Mmm.
+A: What takes all the time here is that th- we're trying so many things, presumably
+B: uh, in a - in a day we could turn around uh, taking a new set of things from them and - and rescoring it, right? So.
+      Mmm.
+A: Yeah.
+      Yeah, perhaps we could.
+      Yeah.
+B: Well, O_K. No, this is - I think this is good. I think that the  most  wide open thing is the issues about the
+      uh, you know,
+      different  trainings.  You know, da- training targets and
+      Mmm.
+",A
+59,"A: We tried uh
+B: things which uh a long time ago Bill Byrne suggested, instead of using Fourier spectrum, from Fourier transform, use the spectrum from L_P_C model.
+      Their argument there was the L_P_C model fits the  peaks  of the spectrum, so it may be m- naturally more robust in  noise.
+      And I thought ""well, that makes sense,"" but so far we can't get much - much  out  of it.
+      Hmm.
+A: uh we may try some standard techniques like spectral subtraction and -
+B: You haven't tried that yet?
+A: not - not - not much. Or even I was thinking about uh looking back into these totally ad- hoc  techniques like for instance uh
+B: Hmm.
+",A
+60,"A: Starts -
+B: No.
+      No.
+A: No.
+B: That's a different thing.
+A: There's another - I don't know. It starts with a P_ or something. I forget the word for it,
+B: Oh.
+",A
+61,"A: Yeah.
+      Yeah.
+      Right.
+      Um.
+B: Mm-hmm.
+       Yeah, I think when  w- you - you could do it in  this  way that you say, if you - if I'm -
+A: you have somehow a noise estimate,
+       Mm-hmm.
+B: and, if you say I'm - I'm - with my envelope I'm close to this noise estimate,
+A: then you have a bad signal-to-noise ratio and then you - you would like to have a stronger smoothing.
+      Yeah.
+B: Mm-hmm.
+      So you could - you could
+",B
+62,"A: Uh, the training set, well,
+B: some kind of answer. We can, we can tell which training set gives the best result,
+       but
+      we don't know exactly why.
+       Uh.
+A: Uh, so.
+B: Right, I mean the multi-English
+A: so far is - is the best.
+      Yeah.
+B: ""Multi- multi-English"" just means ""TIMIT"", right?
+",B
+63,"A: then we get a  win  by having  discriminant    training.
+B: When we train on something that's quite  different,
+      Mm-hmm.
+A: we have a potential to have some  problems.
+B: And, um,  if  we get something that  helps  us when it's somewhat  similar,
+      and doesn't  hurt  us too  much  when it - when it's quite different,
+      Yeah.
+A: that's maybe not so  bad.
+B: So the question is, if you took the  same  combination,
+      Mmm.
+",A
+64,"A: Yeah, but - but what she's saying
+B: is, which is right, is  le-
+      I mean, let's start with the - Before we get complicated,
+      let's start with the  most   basic  wh- thing,
+      which is   we're  arguing
+      that if you take energy -
+      uh if you  look  at the  energy,
+      that, when two people are speaking at the same time, usually
+      there'll be  more  energy than when one is right?
+A: Yeah.
+      That's - that sort of hypothesis. And the first way you'd look at that,
+B: That's right.
+A: uh s-
+B: she's, you know, absolutely right, is that you would
+      just take a look at the  distribution  of those two  things,
+      Yeah.
+",A
+65,"A: I understand that eh you - you mean eh to - to study the alteration
+      between the - the tracking of the pitch eh if we compare the overlapping zone with a speaker zone.
+      I- if you have two - if you have two - if you have  uh
+B: in the co- in the  context.
+A: two
+B: people speaking
+      Yeah.
+A: uh  and
+B: there's an overlap, then - I mean the first thing is that there should be a mixture of harmonics
+      Mm-hmm.
+",A
+66,"A: I - whi- which is sort of what - what we see  here,  which is sort of the Vista, Schema, Source, Path, Goal, whatever. This will
+B: Yeah.
+A: Yeah.
+      um be um a job to find ways of writing down
+B: Image schema, X_schema, constructions, in some - some form,
+      and have this be in a - in a - in the content, loosely called ""Constructicon"".
+      And the  rules  we want to throw away  completely.
+      And um - and here is exactly where what's gonna be replaced with our Bayes-net, which is exactly getting the input feeding into here.  This  decides
+      whether it's an- whether action - the - the Enter, the Vista,
+      or the whatever
+      Uh, "" approach "", you called it, I think  this  time.
+A: uh
+B: Approach um construction should be activated,
+      That's what you  said  - Yeah, that's fine.
+",B
+67,"A: So this is uh what's happening. Then Sunil is uh uh uh
+B: asked me f- for one month's vacation
+      and since he did not take any vacation for two years, I had no - I didn't have heart to tell him no.
+A: So he's in India.
+B: Wow.
+A: And uh -
+B: Is he getting married or something?
+",A
+68,"A: Uh, it's the V_A_D plus the baseline actually. I'm talking about the -
+      the M_F_C_C plus I do a frame dropping on it. So that's like - the word error rate is like four point three.
+      Four point three.
+B: Like -
+A: Ten point seven.
+      What's ten point seven?
+B: It's a medium misma- O_K, sorry. There's a well ma- well matched, medium mismatched, and a high matched. So I don't have the - like the -
+A: Ah.
+B: Yeah.
+      O_K, four point three, ten point seven, and -
+      So -
+",A
+69,"A: and only start the re- recursion after the twenty-five -  twenty-fifth frame.
+      But, well it's similar.
+       So
+       uh I retrained  the networks with  these - well, the - the - the networks are retaining with these new  features.
+      Mm-hmm.
+B: And, yeah.
+A: O_K.
+B: So basically what I expect is that
+A: these numbers will a little bit go down but
+       perhaps not - not so much
+       because  I think the neural networks learn perhaps
+      Right.
+B: to -
+",A
+70,"A: First-order  effects. And it  may  help to do the  variance.  O_K. O_K.
+B: because, again, if you - if you're trying to distinguish between E_ and B_
+A: Mm-hmm.
+B: if it just so  happens  that the E_'s  were a more - you know, were recorded when - when the energy was - was - was larger or something, or the  variation  in it was larger,
+A: Mm-hmm. Mm-hmm.
+B: Mm-hmm.
+      uh than with the B_'s, then this will be - give you some - some bias. So the -
+",B
+71,"A: And this tile -
+B: Uh, in this tile appears, like, the harmonics if you have a voiced sound, because it's - it's the F_T_T bins. And when you take the m- the minima of - of these - this tile,
+      when you don't have speech, these minima will give you some noise level estimate,
+      If you have voiced speech, these minima will  still  give you some noise estimate because
+      the minima are between the harmonics.
+      And - If you have other - other kind of speech sounds then it's not the case, but if the time frame is long enough,
+      uh, like s- five hundred milliseconds seems to be long enough,  you still have portions which, uh, are very close - whi- which minima are very close to the noise energy.
+      I'm confused. You said five hundred milliseconds but you said sixty-four milliseconds. Which is which? What?
+A: Mmm?
+B: Sixty-four milliseconds is to compute the F_F_T, uh, bins. The - the F_F_T.
+      Yeah, yeah.
+A: Um, actually it's better to use sixty-four milliseconds because, um, if you use thirty milliseconds, then, uh, because of the - this short windowing and at low pitch,
+B: uh, sounds,  the harmonics are not, wha- uh, correctly separated.
+      Mm-hmm.
+",B
+72,"A: much  as you've  plotted  them  here,
+B: You know, but just - but just -
+      Yeah.
+A: just uh do it -
+B: Well in this case you have  three.
+      You have the  silence,  and that - that's fine.
+      Yeah.
+A: So,
+B: uh with three colors or three shades or whatever,
+      just - just look at those distributions.
+      Yeah.
+",A
+73,"A: after  that  or  before  that.
+      O_K, fine.
+B: And, um,
+      if it's useful we can probably arrange for you to drop by and visit either at Heidelberg or
+      at the German A_I center,
+      while you're in - in the neighborhood.
+      Right.
+A: Yeah be- uh actu- actually
+      I'm invited to do some consulting with a bank in Geneva which has
+      Yeah. Yep.
+B: an affiliation with a  research  institute in  Geneva,  which I  forgot  the  name  of.
+A: E- o- do y- Well, we- we're connected to
+B: Yeah.
+",A
+74,"A: putting one single K_L_T at the end.
+B: Yeah, I mean that would be pretty
+A: low maintenance to try it.
+      Yeah.
+B: Uh if you can fit it in.
+A: Mm-hmm.
+B: Oh I have - yeah I do have one other piece of information which uh
+",B
+75,"A: Yeah.
+      In some way - I mean, we derive that all the time. In some ways it's really not  a bad - bad thing to do because it tells you in fact how your adjustments at the very low level affect the -
+B: Mm-hmm.
+A: the final goal.
+B: Mm-hmm.
+A: Um, so maybe there's a way to even put that in in a much more automatic way, where you take, you know, something about the error at the level of the word or some other - it could be syllable - but in some large unit,
+B: Right.
+",A
+76,"A: Yeah, for  this  stuff I don't think we're
+B: quite up to that.
+      I mean, we're still so much in development. We want to have just the insiders.
+      Mm-hmm.
+A: Yeah, yeah, yeah.
+      Oh, I wasn't suggesting for this. I'm
+      thinking of the Meeting Recorder  stuff but.
+      Yeah.
+B: Yeah. O_K. Cool.
+A: Yeah.
+B: So, uh -
+      What's new?
+",A
+77,"A: that effectively makes your model half as efficient.
+      Because uh your uh Gaussian mixture model, right? computes the mean.
+      Mm-hmm.
+B: And - and uh i- i- i- but it's - the mean is an exponent
+A: of the
+      whatever, the - the - this
+      You're  compressing  the  range,  right? of that -
+B: Gaussian function.
+A: So you're compressing the range of this coefficient, so it's becoming less efficient.
+      Right?
+      Mm-hmm.
+B: So. So.
+",B
+78,"A: I - I think what you m-
+B: I think what you mean  is that it's nonspeech segments that don't have impulsive noises.
+      Yeah.
+A: Right? Cuz you're calling - what you're calling ""event"" is somebody coughing
+B: or clicking, or rustling paper, or hitting something, which are impulsive noises.
+      Yeah.
+A: But steady-state noises are part of the background.
+B: Yeah.
+",A
+79,"A: you're gonna use them eventu- it's - you know, it's sort of a, um, generate and  test
+B: Mm-hmm.  Mm-hmm.
+      kind of thing, and if you  over-generate  then you'll have to do more. I mean, if there are  some  constraints that you hold back and don't use
+A: uh, in your initial matching
+      Mm-hmm.  Mm-hmm.
+B: then you'll match some things - I mean, I - I d- I don't think there's any way that it could  completely  fail. It - it could be that
+A: uh, you wind up - I mean -
+      The original  bad  idea of purely context-free grammars
+      died because  there were just  vastly  too many parses.
+      You know,  exponentially  num- num- many parses. And so th- the  concern  might be that - not that it would  totally  fail, but that -
+      Mm-hmm.
+B: Mm-hmm.
+      That it would  still  generate too many.
+      it would still genera-
+",B
+80,"A: O_K.
+B: But the bottom line is it's still not, uh, separating out very well. Right? O_K.
+      Yeah. Yeah. The distribution - the distribution is - is similar.
+A: So that's -
+B: that's - that's enough then. O_K.
+      Yeah.
+A: No, I mean, that there's no point in going through all of that if that's the bottom line, really. So, I - I think we have to start -
+B: Yeah. Yeah.
+",A
+81,"A: moment you provide the noise in n- neighboring critical bands.
+      So the s- m- masking curve, normally it looks like sort of - I start from - from here, so you -
+      you have uh  no  noise then you - you - you are expanding the critical band, so the amount of  maching  is increasing. And when you e- hit a certain point,
+      which is a critical band, then the amount of masking is the same.
+      Mmm.
+B: So that's the famous experiment of Fletcher, a long time ago.
+A: Like that's where people started thinking ""wow this is interesting!""
+      Yeah.
+B: So.  But,  if you - if you - if you  modulate  the noise, the masking goes up and the moment you start hitting the - another critical band, the masking goes down.
+A: So essentially - essentially that's a very clear indication that - that -
+      that  cognition can take uh
+      uh into consideration what's happening in the neighboring bands.
+      But if you go too  far  in a - in a - if you - if the noise is very  broad,  you are not increasing much more, so - so if you - if you are far away from the signal -
+      Mm-hmm.
+B: uh from the signal f- uh the  frequency  at which the  signal  is,
+",B
+82,"A: O_K? And then there's a language  generator,  and then after that a s- a synthesizer that
+      goes from an X_M_L structure to,
+      uh,  language  generation, to
+      actual specifications for a  synthesizer.
+      Right.
+B: Eh, but again, there's  one  module in which there's  one
+A: piece
+      that we have to convert to English.
+      Right.
+B: Got it.
+      Is that -
+A: O_K. And that - But as I say, this is -
+       all   along  was viewed as a kind of -
+      a m- a minor thing,
+       necessary,  but - but not -
+      Right. Right. That's great!
+B: O_K?
+",B
+83,"A: Mm-hmm.
+B: I think it's kind of in category that it's, it - it may be complicated.
+A: Yeah.
+B: And uh it might be - if someone's  interested  in it, uh, certainly encourage anybody to look into it in the longer term,
+A: once we get out of this particular rush  uh for results. But in the  short  term, unless you have some - some s- strong idea of what's wrong,
+      Mm-hmm.
+B: I don't know at all but
+      uh -
+",B
+84,"A: Right.
+      Mm-hmm.
+      But - And French Telecom was saying ""no, no, no, there is a lot of little tricks which uh sort of uh cannot be protected and you guys will take them,""
+B: which probably is also true. I mean,  you  know,
+      it might be that people will take uh
+      uh th- the algorithms apart and use the blocks from that. But I somehow think that it wouldn't be so bad, as long as people are happy abou- uh uh uh honest about it. And I think they have to be honest in the long run, because winning proposal again -
+      Yeah.
+A: uh what will be available th- is - will be a  code.  So the uh - the people can go to code and say ""well listen this is what you stole from me""  you know?
+B: Mm-hmm.
+A: Right.
+      Right.
+      ""so let's  deal  with that"". So I don't see the problem. The biggest problem of course is that f- that Alcatel French Telecom cl- claims ""well we fulfilled
+B: the conditions. We are the best. Uh. We are the standard.""
+      And e- and other people don't feel that, because they - so they now decided that - that - is - the whole thing will be done on well-endpointed data,
+      essentially that somebody will endpoint the data based on clean speech, because most of this the SpeechDat-Car has the also close speaking mike and endpoints will be provided.
+      Mm-hmm.
+",A
+85,"A: Mmm.
+B: Uh, I mean, first place, there's still this thing to - to work out, and second place - second thing is that the only results that we have so far from before were really development set results.
+A: Oh, O_K.
+B: So, I think in this community that's of interest.
+A: It's not like everything is being pinned on the evaluation set.
+      But, um, for the development set, our best result was a little bit short of fifty percent.
+      And the best result of any system was about fifty-four, where these numbers are the, uh, relative, uh, reduction in, uh, word error rate.
+      Oh, O_K.
+B: And, um, the other systems were, uh, somewhat lower than that.
+",B
+86,"A: that'd be weird, right?
+B: Oh, O_K.
+      Yeah.
+A: O_K.
+B: Or if X_two is greater than X_- I could imagine i- all  sorts  of garbage.
+A: Alright, right.
+B: And  so these - so this is - this is one collection of technology that we could bring to bear. Yeah.
+",B
+87,"A: O_K
+B: So
+      uh
+      today
+      we're looking at a
+      number of uh
+      things we're trying
+      and uh
+      fortunately for listeners to this uh
+      we lost some of it's visual
+      but um
+      got tables in front of us.
+      Um
+      what is - what does combo mean?
+      So combo is um
+A: a system where we have these features
+      that go through a network and then
+      this same string of features but low-pass filtered with the low-pass filter used in
+      the M_S_G features.
+      And so these low-pass filtered
+      goes through M_ eh - another M_L_P
+      and then the linear output of these two M_L_P's are combined
+      just by adding the values and then there is this K_L_T.
+      Um
+      the output is used as
+      uh features as well.
+      Um
+B: so
+      let me try to restate this and see if I have it right.
+      There is uh -
+      there is the features
+      uh there's the O_G_I features
+      and
+      then um
+      those
+      features
+      um
+      go through a contextual - uh l- l- let's take this bottom arr-
+      one pointed to by the bottom arrow.
+      Um those features
+      go through a contextualized K_L_T.
+      Yeah.
+A: Then
+B: these features also
+      uh get
+      um low-pass filtered
+      Yeah so
+",A
+88,"A: Be- before you get on the next part l- let me just point out that s- there's - there's a - a pretty nice
+      Yeah.
+B: relationship  between what  you're  talking about doing and what  you're  talking about doing there. Right? So,
+A: it seems to me that, you know, if you take away the - the -  the difference of this
+B: primary features,
+A: and, say, you use - as we had talked about maybe  doing  - you use P_- RASTA-P_L_P or something for the - the primary features,
+B: um, then this feature discovery,
+",B
+89,"A: Mm-hmm.
+      Uh, I - yeah, I don't know if th- that's what they were trying to -
+      Right.
+B: They were trying to do something different like
+A: taking, uh - well, using filter that takes only a past and
+      this is just a little bit different. But I will- I will send him an email and tell him exactly what we are doing, so.
+      Yeah, yeah. Um, I mean -
+B: Um,
+A: We just - we just have to be in contact more. I think that - the - the fact that we -
+B: Mm-hmm.
+",A
+90,"A: O- oh, what's - what's the - what's the average
+B: length?
+      M- I - I haven't averaged it now but, uh  I - I will, uh
+A: You don't know?
+B: I will do the - the study of the -  with the - with the program with the - uh, the different, uh  the, nnn,  distribution of the duration of the overlaps.
+A: O_K, you - you don- you don't have a feeling for roughly how  much it is? Yeah.
+B: mmm,  Because the - the uh,  @@  is  @@ .
+",A
+91,"A: using the local
+      characteristics in time, is probably going to work pretty well.
+      Mm-hmm.
+B: But you could get hurt a lot if you just took some- something from the beginning of all the speech, of, you know, an hour of speech and then later -
+A: Yeah.
+B: Uh, so they may be - you know, may be  overly,  uh, complicated for - for this test but -
+A: but - but, uh,  I  don't know.
+      But what you're saying, you know, makes sense, though. I mean, if possible you shouldn't -
+      you should - you should make it, uh, the center of the - center of the window. But -
+      uh, we're  already  having problems with these delay, uh -  delay issues. So, uh, we'll have to figure ways  without  it.
+      Yeah, so.
+B: Um,
+",B
+92,"A: Alright, and this one has three outputs,
+      Mm-hmm.
+B: and this one has f-
+A: whatever, fifty-six, or something, if you were to sum up the probabilities for the voiced and for the unvoiced and for the silence  here,  we've found in the past you'll do  better  at voiced-unvoiced-silence than you do with  this  one.
+      Mm-hmm.
+B: So just  having  the three output thing doesn't - doesn't really  buy  you anything.
+A: Yeah.
+B: The issue is what you  feed  it.
+",B
+93,"A: So - so that's the other thing I wanted to  discuss,  is well what should we  do  for the user interface? We have
+       two  tools that have already been written. Um the  SoftSound  guys did a  web-based  one,
+      Mm-hmm.
+B: um, which I haven't used, haven't looked at. Dan says it's pretty good
+A: Mm-hmm.
+B: but it  does  mean you need to be running a web server.
+A: Mm-hmm.
+B: And so it - it's pretty big and complex.
+",A
+94,"A: Yeah, in fact if y- if y- if you use the right verb for each
+B: in common, like at- you know, ""attend a theater, symphony or opera"" is - is a group, and ""tour the university, castle or zoo"",
+      mm-hmm
+A: all of these d- do have this kind of ""tour""
+B: um - aspect about the way you would go to them.
+      Yeah.
+A: And uh,
+B: the movie theater is probably also
+      uh - e- is a- ""attend""
+      Attend, yeah.
+",A
+95,"A: And that - that seem- So it's kind of like a combination of the -
+B: uh, what, uh, Dan has been calling, you know, a feature - uh, you know, a feature combination versus posterior combination or something. It's -
+      it's, you know, you  have  the posterior combination but then you get the features from  that  and use them as a feature combination with these - these other things.
+      And that seemed, at least in the  last  one, as he was just saying, he -
+      he - when he  only  did discriminative stuff,
+      Yeah.
+A: i- it actually was - was - it didn't help at  all  in this particular case. There was enough of a difference, I guess, between the
+B: testing and training.
+      But by having  them    both  there - The fact is  some  of the time,
+      the discriminative stuff is gonna  help  you.
+      Mm-hmm.
+A: And  some  of the time it's going to  hurt  you, and by combining two information sources if, you know - if - if -
+B: Right.
+",A
+96,"A: almost  as good as a result as using T_I- digits
+B: on a T_I-digits  test.
+      O_K?
+      Hmm?
+A: Um  and  um
+B: But,
+       when you add in more training data but keep the neural net the same size,
+       it  um performs worse on the T_I-digits.
+       O_K, now all of this is -
+       This is  noisy   T_I-digits, I assume?
+      Yep.
+A: Both training and test?
+B: Yeah.  O_K.
+      Um
+      O_K.
+      Well.
+       We - we - we may just need to uh -
+      So I mean it's interesting that h- going to a different -
+      different  task  didn't seem to  hurt  us that much, and going to a different  language
+      um
+      It doesn't seem to matter -
+       The difference between  three  and  four  is not particularly great, so that means that
+       whether you have the  language  in or  not  is not such a big deal.
+      Mmm.
+",A
+97,"A: a  module,  if you wanna call it that, that you can ask,
+B: that you can give input and it- it'll uh throw the dice for you,
+      uh throw the die for you,  because um
+      I integrated this into the  existing  SmartKom system in - in the same way as
+      much the same way we can um
+      sort of have this uh -
+       this  thing.
+      Close this down.
+      So if this is what M_-three-L_ um
+      will  look  like and what it'll  give  us,
+      um - And a very simple thing. We have an action that he wants to go from somewhere, which is some type of object, to someplace.
+      Mm-hmm.
+A: And this - these uh - this changed now  only  um,
+B: um -
+      It's doing it twice now because it already did it once.
+      Um, we'll add some action type, which in this case is ""Approach""
+      Mm-hmm.
+A: Good.
+      and could be, you know, more refined uh
+B: in many ways. Or we can uh
+      have something where the uh
+      goal is a public place
+      and it will give us then of course an action type of the type ""Enter"".
+      So this is just based on this one -
+      um,
+      on this one feature,
+      and that's - that's about all you can do.
+      And so in the f- if this pla- if the object type
+      um here is - is a m- is a landmark,
+      of course it'll be um ""Vista"".
+      And um
+      this is about as much as we can  do
+      if we don't w- if we want to avoid uh uh a huge combinatorial explosion where we specify
+      ""O_K, if it's  this  and  this  but  that  is not the case"", and so forth, it just gets really really messy.
+      O_K, I'm sorry. You're - you're -
+",B
+98,"A: this is why we - we started to look  by having
+B: Well, that's the rea- w- w- what I'm arguing is that's-
+A: sort of voiced
+B: Yeah. I mean, uh, what I'm arguing is that that - that's givi- you - gives you your intuition.
+A: phonemes and -
+B: But in - in reality, it's - you know, there's all of this - this overlap and so forth,
+",B
+99,"A: work very well if the S_N_R is very bad.
+      It's -
+      I see.
+B: it works very poorly with the poor S_N_R conditions, and in colored noise.
+A: So essentially you could do simple spectral subtraction, followed by a K_L transform, followed by a
+B: Wiener filtering.
+A: Wiener filter.
+B: It's a - it's a cascade of two s-
+",A
+100,"A: things from the transcript, it's unlikely.
+      Since it - it does- isn't attributed.
+      Oh,  I  see, but the a- but the - but the -
+      Right, so if I said, ""Oh, hi Jerry, how are you?"", we're not gonna go through and cancel out the ""Jerry""s.
+B: Yeah.
+A: Sure.
+      Um, so we  will  go through and, in the speaker I_D tags there'll be, you know, M_one O_ seven, M_one O_ eight.
+B: Right.
+A: Right.
+      Um, but uh,
+B: um, it w- uh, I don't know a good way of doing it on the  audio,  and still have people who are doing  discourse  research be able to use the data.
+      O_K.
+",B
+101,"A: Uh, probably the neural net cuz it's probably - it - it's -
+       it's um -
+       Well, I - I don't know.
+       They both -
+       H_T_K we use for
+       um
+       this Aurora stuff
+       Um
+       Um, I think
+       It's not  clear  yet what we're gonna use
+       for trainings uh -
+       Well,
+       there's the trainings uh - is it the  training  that takes the time, or the  decoding?
+       Uh, is it about equal  between the two?
+       For - for Aurora?
+      For H_T_K?
+B: For - Yeah. For the Aurora?
+A: Uh
+B: Training  is longer.
+      O_K.
+A: Yeah.
+B: O_K.
+",B
+102,"A: And - Not all of - No it's actually, digits is only a maybe a fifth of it. The rest is - is read - is read TIMIT data and uh ATIS data and Wall Street Journal and stuff like that.
+B: A fifth of it is how much?
+A: Right. But a fi- a fifth is how much?
+B: A fifth would be maybe
+      uh two hours something.
+      Yeah, so I mean that's actually not that different from the  amount of training that there was. So.
+A: Right.
+B: But it definitely helps to have the  other  read data in there  because we're doing -
+      Oh yeah  w-
+",B
+103,"A: See I was wondering cuz we st- we have these ten hours of other stuff that is not yet transcribed. Do you -
+B: Yeah.
+A: Yeah.
+      The - the transcription by Jane, t- eh i- eh,
+      I - I - I want to use to - to nnn,  eh
+      to put - i- i- it's a reference for me.
+      But eh the transcription -
+      eh for example, I - I don't - I - I'm not interested in the - in the - in the words,
+      transcription words, eh
+      transcribed eh eh in -
+      eh follow in the -  in the - in the speech file,
+      but eh eh Jane eh for example eh put a mark eh at the beginning eh of each eh talker,
+      in the - in the meeting,
+      um eh she - she nnn includes information
+      about the zone where eh there are eh - there is an overlapping zone.
+      Mm-hmm.
+B: But eh there isn't any - any mark,
+A: time - temporal mark,
+      to - to c- eh - to mmm  - e-heh, to label
+      O_K.
+B: the beginning and the end of the - of the ta-
+",A
+104,"A: And - breath, you know, everyone breathes, they breathe all the time. And once in a while breath is communicative, but
+B: r- very rarely. O_K, so now, I had a discussion with Chuck about the data structure and the idea is that
+      Mm-hmm.
+A: the transcripts will - that - get stored as a master- there'll be a master transcript which has in it everything that's needed for  both  of these uses.
+B: Mm-hmm.
+A: And the one that's used for speech recognition will be processed via scripts. You know, like, Don's been writing scripts and - and,
+B: Mm-hmm.
+",B
+105,"A: So -
+B: So - but you see, now, between - between the males
+A: and the females, there's certainly a much bigger
+      difference in the scaling
+      range,
+      than there is, say, just within the males.
+      And what you were using before was scaling factors that were just from the - the m- the  S_R_I front-end.
+      And that worked - that worked fine.
+      That's true.
+B: Yeah.
+      Uh,
+A: but now you're looking over a larger range and it may not be so fine.
+      Well, um -
+B: So -
+      I just -
+      d- so the one thing that I then tried was to
+      put in the low-pass filter,
+      which we have in the -
+      So, most -
+      most
+      Hub-five systems actually
+      band-limit the -
+      uh, at about,
+      uh, thirty-seven hundred,
+      Uh-huh.
+",B
+106,"A: and
+B: you told me that there was a difference in how the normalization was done.
+      And I was asking if you were going to do -
+      redo it
+      Mm-hmm.
+A: uh for P_L_P with the normalization done as it had been done for the mel cepstrum.
+B: Uh
+A: right, no I haven't had a chance to do that.
+      What I've been  doing  is
+      O_K.
+B: uh
+",A
+107,"A: Mm-hmm.
+B: Yeah.
+      as  you  say, it's more fine-structure-based than - than envelope-based  uh so then it you - you - you can pretty much guarantee it's stuff that you're not looking at very  well  with the other one,  and uh then you  only  use for this one distinction.
+A: Mm-hmm.
+B: Alright.
+      And - and so now you've got a probability of the cases,  and you've got uh the probability of the  finer  uh categories on the other side. You multiply them where appropriate and uh  um
+A: I see, yeah. Mm-hmm.
+B: if they really are from independent  information sources then  they should have different kinds of errors and roughly  independent  errors, and  it's a good choice for -
+",B
+108,"A: Can you give an example of an event?
+      Yeah. Sure. Um, I - I can give you  an  example of  twenty-odd events.
+B: Um -
+      So, he- In this paper, um,  it's  talking about phoneme recognition using acoustic events.
+      So, things like frication
+      or, uh, nasality.
+      Whose paper is it?
+A: Um, this is a
+B: paper by Hubener and Cardson  Benson - Bernds- Berndsen.
+      Yeah.
+A: Huh.
+      From, uh,
+      University of Hamburg and
+      Bielefeld.
+      Mm-hmm.
+B: O_K.
+",B
+109,"A: our V_A_D was not very  good.
+B: Well, I guess - I mean, one could imagine
+A: combining them in different ways. But - but,
+      I guess what you're saying is that the - the M_L_P-based one has the spectral information.
+      Yeah.
+B: So.
+A: But -
+B: Yeah. But the way it's combined wi- is maybe done - Well,  yeah .
+       Well, you can imagine -
+",B
+110,"A: And, um,
+      if you have,
+      um -
+      f- the distribution that you have from,
+        Mm-hmm.
+B: uh, f- speech sounds
+A: is w-  sort of  one  source of knowledge. And this is -
+      and rather than just taking one minus that to get the  other,
+      which is essentially what's happening,  you have this  other
+      source of knowledge that you're putting  in  there. So you make use of  both  of them
+      in - in  what you're ending up with.
+      Maybe it's better.
+      Yeah.
+B: Anyway,
+A: you can probably justify anything if  what's use- Yeah.
+      Yeah.
+B: And - and the features are different also. I mean,
+      the V_A_D doesn't use the same features there  are .
+      Mm-hmm.
+",B
+111,"A: So, um, if you looked -
+B: if you were doing some coarse clustering, you probably would put those two  sounds  together.
+A: And yet, I would gue- I would guess that many of your recognition errors were coming from, uh, um, pfft,
+      screwing up on this distinction.
+       Mm-hmm.
+B: So, in fact, it's a little hard because recognizers, to first order,  sort  of work.
+A: And the reasons we're doing the things we're doing is because they don't work as  well  as we'd like.
+      And since they  sort  of  work,
+      uh, it means that they are already doing - if you go and take
+      any recognizer that's already out there and you say, ""how well is it distinguishing between  schwas and stops?""
+      Mm-hmm.
+B: Boy, I bet they're all doing
+",B
+112,"A: that  we have uh, for the -
+      uh, the quote-unquote  noisy  data there is just -
+      noisy and  reverberant  actually. It's the far field mike.
+      And uh, we have
+      uh,
+      the  digits  that we do at the end of these things. And that's what most o- again, most of our work has been done with that, with - with uh, connected digits.
+      Uh-huh.
+B: Um,
+A: but uh, we have recognition now
+      with some of the continuous speech,
+      large vocabulary continuous speech, using Switchboard - uh, Switchboard recognizer,
+      Yeah.
+B: O_K.
+      uh, no training,  from this, just - just plain using the Switchboard.
+A: Oh. You just take the Switchboard trained - ? Yeah, yeah.
+B: That's - that's what we're doing, yeah. Now there are some adaptation though, that - that uh, Andreas has been playing with, but we're hop- uh, actually uh, Dave and I were just talking earlier today about maybe at some point not that distant future, trying some of the techniques
+",B
+113,"A: Before we get more into details.
+B: The organization is going to be that
+      uh the flavor of what's going on
+      is going to be that
+      uh as we s- e- sort of going to this detail
+      indeed Keith is going to - to worry about the various constructions that people might use
+      Mm-hmm.
+A: and Johno has committed himself to being the parser wizard, so
+B: Alright.
+A: what's going to happen is
+B: that
+      eventually
+      like by the time he graduates, O_K
+",A
+114,"A: For  Aurora?
+      Yeah.
+B: Oh!
+A: Yeah, so the uh -
+B: Uh,
+      the issue is whether people make a decision  now  based on what they've already seen, or they make it  later.  And one of the arguments for making it  later  is let's make sure
+      that whatever techniques that we're using work for something more than - than connected digits.
+      Hmm.
+A: So.
+B: When are they planning -
+",A
+115,"A: When you get the mel -
+B: When you go to the mel scale.
+      Right.
+A: Yeah, it's bark scale, and it's - it -
+      it um -
+      it actually  copies
+      the uh um -
+      the second
+      filters over to the first. So the first filters are always - and you can s- you can specify a different number of
+      uh  features  - different number of  filters,  I think,
+      as I recall.
+      So you can specify a different number of filters, and whatever
+      um
+      uh you  specify,  the  last  ones are gonna be  ignored.  So that - that's a way that you sort of
+      change what the - what the bandwidth is.
+      Y- you can't do it without I think changing the number of filters, but -
+      I saw something about uh -
+B: that looked like it was doing something like that, but I didn't quite understand it.
+      So maybe -
+      Yeah, so the idea is that the very lowest frequencies and - and typically the veriest  highest frequencies are kind of junk.
+A: Uh-huh.
+B: And so um you just - for continuity you just approximate them by -
+",B
+116,"A: Right? I was just saying that w-  now  we're  looking  at it.
+B: it's -
+A: um
+      And - and - and, you - you maybe  wanted  to look at it before but, for these various technical reasons in terms of how the  data  was you  weren't.
+B: Well, we've als-
+A: Right. We're  looking  at it  here.
+B: So that's why it's coming to us as  new
+       even though it may well  be
+       you know, if your - if your hypothes- The hypothesis you were offering
+      Um.
+",A
+117,"A: You  might.
+      Yeah.
+B: You might.
+A: You might be able to - to uh
+      say that this i- this is the  kind  of construction
+      in which the -
+      there's - Let's say there's a uh cont-
+      there - the - the land-
+      the construction  implies  the there's a con- this thing is being viewed as a  container.
+      Mmm.
+B: O_K.
+A: So just from this local construction
+      you know that you're gonna  hafta  treat it as a container you might as well go off and get that information. And that may effect the way you process everything else.
+      So if you say ""how do I get  into  the castle""
+      O_K,
+       Right.
+B: then um -
+",B
+118,"A: Sure, but when we think about the  weighting,  which is point five, point three, point two,
+B: it's on absolute
+      on - on  relative  figures,
+      not -
+      Yeah. Yeah.
+A: So when we look at this error rate
+B: No. That's why I've been  saying  we should be looking at word error rate uh and - and not - not at  at accuracies. It's -
+A: uh -
+B: Mmm, yeah.
+      Mmm, yeah.
+      Mm-hmm.
+      I mean uh we probably should have standardized on that all the way through. It's just -
+",B
+119,"A: What about Harry? Uh.
+B: We received a mail last week and you are starting
+A: He got the - he got the software. Yeah. They sent the release. Yeah. Yeah. Yeah.
+B: to - to do some experiments.
+A: And use this Intel
+      version.
+      Yeah.
+B: Hmm.
+",A
+120,"A: You're talking about the meeting with Hynek?
+B: So.
+A: Yeah. Cuz that was sort of, uh - we - we'd sort of been working up to that,
+      that - that, uh, he would come here this week and -
+      Uh-huh.
+B: and we would sort of -
+A: Since he's going out of town
+      like  now,  and I'm going out town in a couple weeks,
+      uh,
+      and time is marching, sort of,
+      given all the mu- many wonderful things we could be working on, what - what will we actually focus on?
+      Mm-hmm.
+B: And, uh -
+",B
+121,"A: uh, that wouldn't work. Because your model was trained expecting a certain var- variance on C_one.
+      Uh-huh.
+B: And because the model thinks C_one is important.
+A: After  you train the model,
+      you sort of -
+      y- you could do - you could do still what I was proposing initially,
+      that during the training you - you compress C_one
+      Mm-hmm.
+B: that becomes - then it becomes less important
+A: in a training.
+      But if you have - if you want to run e- ex- extensive experiment without retraining the model, you don't have to retrain the model. You train it on the original vector.
+      But after, you - wh- when you are doing this parametric study of importance of C_one
+      you will
+       de-weight
+      the C_one component in the model,
+      and you will put in the - you will compress
+      the - this component in a - in the test data.
+B: Could you also if you wanted to -
+      s- by the same amount.
+",B
+122,"A: O_K, sure.
+      uh, maybe the first thing to do is just to  count
+B: and uh count co-occurrences and get probabilities for a discrete H_M_M
+      cuz that'd be pretty simple because it's just - Say, if you had ten - ten events,
+      uh that you were  counting,  uh each frame would only have a thousand possible  values  for these ten bits,
+      and uh so you could make a table that would - say, if you had thirty-nine phone categories, that would be a thousand by thirty-nine, and just count the co-occurrences and divide them by the - the uh - uh uh occ- uh
+      count the co-occurrences between the event and the phone and divide them by the number of occurrences of the phone, and that would give you the likelihood of the - of the event given the phone. And um then just use that in a very simple H_M_M and uh
+      you could uh do phone recognition then and uh wouldn't have any of the issues of the uh training of the net or - I mean, it'd be on the  simple  side, but
+      Mm-hmm.
+A: uh
+B: um
+      you know, if - uh uh the example I was giving was that if - if you had um
+      onset of voicing and - and end of voicing as being two kinds of events,
+      then if you had those a- all marked correctly, and you counted co-occurrences, you should get it completely right.
+      Mm-hmm.
+A: So.
+B: um -
+      But you'd get all the  other  distinctions, you know, randomly  wrong.  I mean there'd be  nothing  to  tell  you that.
+      So
+      um
+       uh
+      If you just do this by counting, then you should be able to find out in a pretty straightforward way whether you have a sufficient uh set of events to - to do the kind of level of -  of uh classification of phones that you'd like.
+      So that was - that was the idea. And then the other thing that we were discussing was - was um
+      O_K, how do you get the - your  training  data.
+      Mm-hmm.
+",A
+123,"A: Yeah, that was my -
+      She was  good.  Litonya was  good.
+B: Yeah? The uh - um, she w- she was  definitely  good in the sense that she - she showed us some of the weaknesses
+A: Right.
+B: and um
+A: also the um -
+       the fact that she was a  real  subject you know, is - is -
+      Right.
+B: Yeah, and - and - and - yeah and - and she took it seriously and stuff l- No, it was great.
+      Yeah.
+",A
+124,"A: Yeah.
+B: Um.
+A: Was Hari on the -
+B: on the phone?
+      Yeah, sure.
+A: O_K.
+B: Well, it was mainly a discussion  between Hari and
+",A
+125,"A: So here - here I mean, I found that it's - if I changed the noise estimate I could get an improvement.
+B: So that's - so it's something which I can actually pursue, is the noise estimate.
+      Mm-hmm.
+A: And -
+B: Yeah, I think what you do is in - when - when you have the - the - this multi-condition training mode,
+A: um
+      then you have - then you can train models for the speech, for the words, as well as for the pauses
+      where you really have
+       all  information about the noise  available.
+      Yeah.
+B: And
+",B
+126,"A: um,
+B: hertz.
+      Although, you know, normally, I mean, the channel goes to
+      four -
+      four thousand. Right? So,
+      um -
+      And that actually helped,
+      uh -
+      Uh-huh.
+A: uh,
+B: a little bit.
+      Um  and it didn't hurt on the males either. So,
+      um -
+      And I'm now,
+      uh,
+      trying
+      the -
+      Oh, and suddenly, also the v- the vocal tract length normalization only in the  test  se- on the  test  data.
+      So, you can do vocal tract length normalization
+      Yeah.
+A: on the test data only or on both the training and the test.
+B: And
+      you expect it to help a  little  bit if you do it only on the  test,  and s- more if you do it on both training and test.
+      Yeah.
+",B
+127,"A: Well.
+B: And it works on T_I-digits and on SpeechDat-Car it doesn't work, and -
+A: Yeah.
+B: Mm-hmm.
+A: Yeah. Well.
+      But, you know, some problems are harder than others, and -
+B: Mm-hmm.
+",A
+128,"A: eh
+B: in the middle eh a zone of overlapping
+      Mm-hmm.
+A: with
+B: mmm less energy
+      and
+      eh  come  with another speaker with high energy and the
+      Mm-hmm.
+A: overlapping zone
+B: has
+      eh less energy.
+",B
+129,"A: for the time  being.
+B: Got it.
+A: It's hard enough to
+B: get it semantically and syntactically right and then - and get the constructions in their form and stuff.
+      Yeah.
+A: And, I don- I don't want you f-
+B: feeling
+      that you have to somehow meet all these  other  constraints.
+      Right, O_K.
+",A
+130,"A: So the relevance of the speaker form here, s-
+B: It's for labeling the extracted audio files.
+A: Oh, O_K.
+B: By speaker I_D and microphone type.
+A: Wasn't like whether they were giving us permission to use their digits or something.
+B: No, I spoke with Jane about that and we sort of decided that
+",A
+131,"A: Dennis Klatt was suggesting
+B: uh the one way to uh deal with noisy speech is to add noise to  everything.
+      Hmm!
+A: So.  I mean, uh uh add moderate amount of noise
+B: Oh!
+A: to all data.
+B: I  see.
+",A
+132,"A: Uh, O_K,
+B: @@   So, uh,
+A: then I guess th- the last thing I'd had on my -
+B: my  agenda was just to hear - hear an update on
+      what - what Jose has been doing, so  that's  -
+      Uh-huh.
+A: O_K.
+      I have, eh,
+      The result of my work during the last days.
+      O_K.
+B: Thank you for your information because I -
+",A
+133,"A: Um, and in  principle  you would  think  that the neural net would do
+B: better
+      at the  discriminant  part than L_D_A.
+      Right.
+A: Yeah. Well - y-
+      Though, maybe  not.
+B: Yeah.   Exactly.  I mean, we, uh - we were getting ready to do the tandem, uh, stuff for the Hub- five  system,
+A: and, um, Andreas and I  talked  about it, and
+      the idea w- the  thought  was, ""Well,
+      uh, yeah, that i- you know - th- the neural net should be  better,  but we should at least have
+      uh, a  number,  you know, to show that we did try the L_D_A
+      in  place  of the neural net, so that we can
+      Right.
+B: you know, show a clear  path.  You know, that you have it  without  it, then you have the L_D_A, then you have the neural net, and you can see,
+",A
+134,"A: Of data?
+B: training  data
+A: Yeah.
+B: or not, uh, the uh -
+A: The best kind of number we have on the English uh -
+      on
+      near microphone only is - is uh three or four percent.
+      Mm-hmm.
+B: And uh it's significantly better than that, using
+",B
+135,"A: Uh, well that's  um  yeah
+B: Hmm?
+A: I mean, I think the question is ""Is there - is there some advantage?""
+B: I mean, you could just take the best system and say that's the standard.
+      But the thing is that if different systems are getting at good things, um, a- again within the constraint of the resources, if there's something simple that you can do
+      Now for instance, uh, it's, I think, very reasonable to have a standard for the terminal's side and then for the server's side say, ""Here's a number of things that could be done.""
+      So, um, everything that we did could probably just be added on to what Alcatel did, and i- it'd probably work pretty well with them, too.
+      So, um, uh, that's one - one aspect of it.
+      And then on the terminal's side, I don't know how much, um, memory and - and C_P_U it takes, but it seems like the filtering
+      Uh, I mean, the V_A_D stuff they both had, right?
+      And, um, so - and they both had some kind of on-line normalization, right?
+      Uh, yeah.
+A: Of sorts, yeah?
+B: So - so, it seems like the main different there is the - is the, uh, filtering.
+      And the filtering - I think if you can - shouldn't take a lot of memory to do that
+      Uh, and I also wouldn't think the C_P_U, uh, would be much either for that part.
+      So, if you can - if you can add those in  um  then, uh, you can cut the data rate in half.
+      Yeah.
+",A
+136,"A: O_K? If you're talking about, say, twelfth - twelfth-order uh M_F_C_C's or something like that it's just way too much. You won't be able to  look  at it.
+B: Yeah.
+A: All you'll be able to do is put it into a classifier and see how well it does.
+B: Yeah.
+A: Whereas I think if you have things - if you pick one or two dimensional
+B: things, or three of you have some very fancy display,
+",A
+137,"A: it's a stationary background plus some voices,
+      Mm-hmm.
+B: some speech
+A: over it. And
+      the other two are rather stationary also.
+      Well, I - I think that
+B: if you run it -
+      Actually, you - maybe you remember this. When you - in - in the  old  experiments when you ran
+      with the neural net only, and didn't have this side path,
+      um, uh, with the - the pure features as well,
+      Mm-hmm.
+A: did it
+B: make things  better  to have the neural net? Was it about the  same?
+      Uh, w- i-
+      It was -
+",A
+138,"A: which uh uh uh uh yield critical bands, and also experiments with release of masking,
+      which actually tell you that something is happening  across  critical bands,  across  bands.
+      And -
+      Well how do you - how do you uh convert
+B: this uh energy over time in a particular frequency band into a vector of numbers?
+      It's uh uh uh I mean time T_zero is  one  number,
+A: time t-
+      Yeah but what's the number? Is it just the -
+B: It's a spectral energy, logarithmic spectral energy, yeah.
+A: it's just the amount of energy in that band from f- in that time interval.
+B: Yes, yes.
+",B
+139,"A: Yeah.
+B: All I'm saying is that,
+A: it is useful to have that -
+      the transcription of what was  really  said, and which syllables were reduced.
+      Uh, if you're gonna add the features it's also useful to have some level of representation which is,
+      is a reduced -
+      it's a pronunciation variant,
+      that currently the dictionaries don't give you because if you add them to the dictionary and you run recognition, you,
+      Mm-hmm.
+B: Right.
+      you add confusion.
+A: So people purposely don't add them.
+      Right.
+B: So it's useful to know which variant was -
+",A
+140,"A: it's not just an  information  retrieval system.
+B: Right? So this i- this is where
+      Clearly. Yes.
+A: I think this - people are gonna have to think this through a bit more carefully.
+B: Mm-hmm.
+A: So, if it's  only  like in - in the - in the film and T_ V  thing,
+B: O_K, you can do this. And you just get information and give it to people.
+      But what happens when you actually get them  moving  and so forth and so on
+      Yep.
+",A
+141,"A: Yeah. We're - This is session R_nineteen.
+B: If you  say  so.
+A: O_ K.  Do we have anything like an agenda? What's going on? Um.
+      I guess um.
+      So.
+      One thing -
+      Sunil's here for the summer?
+B: Sunil's here for the summer, right.
+A: Um, so, one thing is to talk about a kick off meeting
+      maybe
+      uh, and then just uh, I guess
+      uh, progress reports individually, and then uh, plans
+      for where we go between now and then, pretty much.
+      Um.
+      I could say a few words about um, some of the uh, compute stuff that's happening around here, so that people in the group know.
+B: Mm-hmm.
+",B
+142,"A: Well, that's - Hhh.
+      That's - that's al- different question. I mean, th- the - first, they had to make a  design  question,
+      ""do we take ontologies that  have  instances? or just one that does  not,  that just has the types?""
+      O_K.
+B: And, so, since the d- decision was on  types,  on a d- simply type-based,
+A: we now have to hook it up to  instances.
+      I mean this is
+      one -
+      But what i- What  is    SmartKom  gonna do about that?
+B: Cuz, they have instances  all  the  time.
+      Yeah, but the ontology is really not a SmartKom
+A: thing,
+      in - in and of itself. That's more something that
+       I  kicked loose
+      in - in E_M_L. So it's a completely E_M_L
+      thing.
+      But -
+B: Uh - uh -  SmartKom's  gonna  need  an ontology.
+      Yes, u- a w- a lot of people are aware of that.
+",A
+143,"A: Yeah. But again, you're - you're  more  or less doing what they were  doing,  right?
+B: It's - it's different in a sense like I'm actually cleaning up the cleaned up spectrum which they're not doing.
+A: They're d- what they're doing is, they have two stage - stages of estimating the Wiener filter,
+      Yeah.
+B: but -
+A: the final filter, what they do is they -
+      they take it to their time domain by doing an inverse Fourier transform.
+      Uh-huh.
+B: And they filter the original signal using that fil- filter,
+",A
+144,"A: O_K. What w-
+B: Well, for the moment we are testing on digits, and e- i- perhaps u- using broad phoneme classes, it's - it's O_K for um, uh classifying the digits, but
+A: as soon as you will have more words,
+      well, words can differ with only a single phoneme, and -
+      which could be the same, uh, class. Well.
+      I see.
+B: So.
+A: Right. Although, you are not using this for the - You're using this for the  feature  generation, though, not the -
+B: So, I'm  afraid  -
+",A
+145,"A: Well, we can find out. I know for instance  Mark  Liberman was interested uh in - in L_D_C getting  data, uh, and -
+      Right, that's the found data idea. But what I'm saying is uh if I talk to people that I know who  do  these th- who  produce  these things we could ask them if they could record an extra channel,
+B: Yeah.
+A: let's say, of a distant  mike.
+B: Mm-hmm.
+A: And u- I think  routinely  they would not  do  this.
+B: So, since I'm interested in the distant  mike  stuff, I wanna make sure that there is at least  that   somewhere
+      Right.  Great . O_K.
+",A
+146,"A: Um, I missed the beginning, but, um
+B: I guess - could you back to the slide, the  previous  one? So, is it that it's, um -
+      These are all factors that uh, a-
+      These are the ones that you said that we are going to  ignore  now? or that we want to
+      take into account? You were saying
+      n-
+       Take  them into  account.
+A: Take the - the linguistic factors  too.
+B: But - but you  don't  worry about - h-
+A: Oh, how to  extract  these features. O_K.
+B: how to  extract   them.
+",B
+147,"A: So, what we're  really  trying to do
+B: is to map from the  discourse
+      to the  conceptual  semantics level.
+      And from  there
+      to the appropriate  decisions.
+      So  another  one of these primitive,
+      Mm-hmm.
+A: what are called "" image  schemas"",
+B: is uh  goal  seeking.
+      So this a notion of a source,
+      Mm-hmm.
+A: path, goal,
+B: trajector, possibly obstacles.
+      And the idea is this is another conceptual  primitive.
+      And that all  sorts  of things,  particularly  in the tourist domain, can be represented in  terms  of uh source, path and goal. So the idea would be could we build an  analyzer  that would take an  utterance
+      Mm-hmm.
+",A
+148,"A: um,
+B: Hmm.
+A: change what they  are  -
+B: Mm-hmm.
+A: It's diagonal  covariance  matrices, but you
+B: say what those  variances  are.
+      Mm-hmm.
+",A
+149,"A: Well Guenter is already - he got the job uh already was working on it for past two years or three years -
+B: Mm-hmm.
+A: he got a job uh at some - some Fachschule, the technical college not too far from Aachen.
+B: Hmm!
+A: So it's like professor - u- university professor
+B: Mm-hmm.
+",A
+150,"A: And then we have sort of the um
+      Let's say I put commercial.
+B: Yeah, I w- I was just gonna commercial action inside
+A: where people p-
+      Well  couldn't I  do - let's do commercial
+B: uh
+      landmark
+      and
+      And where was the
+A: Well
+B: accessible, yeah.
+",A
