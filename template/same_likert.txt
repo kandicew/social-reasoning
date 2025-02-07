@@ -1,0 +1,16 @@
+In this task you are given two descriptions [1] and [2] about the power dynamics of the the same conversation between two speakers, A and B. Give a similarity score of these two descriptions based on the following rubric.
+
+Rubric:
+1: Description [1] and [2] mention different behaviors of A and B, and provide different reasoning of why they could be the one with higer power in the conversation.
+2: Description [1] and [2] mention somewhat similar behaviors of A and B, but provide different reasoning of why they could be the one with higher power in the conversation.
+3: Description [1] and [2] mention somewhat similar behaviors of A and B, and provide similar reasoning of why such behaviors could indicate higher power in the conversation.
+4: Description [1] and [2] mention similar behaviors of A and B, and provide similar reasoning of why such behaviors could indicate higher power in the conversation.
+5: Description [1] and [2] mention the same behavior of A and B, and provide very similar reasoning of why such behaviors could indicate higher power in the conversation.
+
+Descriptions:
+[1] {description_a}
+[2] {description_b}
+
+In your response, provide the similarity score of [1] and [2]. Only print '1', '2', '3', '4' or '5'.
+
+Score:

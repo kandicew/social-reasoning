@@ -1,0 +1,9 @@
+In this task, you are given a conversation and a reason for why {high} has more power than {low} based on the conversation. You will need to decide whether this reason can be grounded through the conversation. Respond with Yes or No. When uncertain, output No.
+
+Conversation:
+{conversation}
+
+Reason:
+{reason}
+
+output:

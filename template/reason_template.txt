@@ -1,0 +1,9 @@
+In this task, you will need to come up with the reasons for {high} has more power than {low} based on the conversation summaries.
+
+Summaries:
+{summary}
+
+Please list three reasons to support {high} has more than {low}, one in a line, start with "-" and surrounded by quotes"".
+
+The reasons for {high} has more power than {low} are:
+- "

@@ -1,0 +1,11 @@
+In this task, you are given a conversation and reason that supports {high} has more power than {low}. You will need to provide a rebuttal against this reason for {low} has more power than {high}.
+
+Conversation:
+{conversation}
+
+Reason:
+{reason}
+
+Please provide the rebuttal,  start with "-" and surrounded by quotes"".
+
+-"

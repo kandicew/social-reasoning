@@ -1,0 +1,16 @@
+In this task you are given two descriptions, [1] and [2], about the power dynamics of the same conversation between two speakers, A and B. Both descriptions support the same speaker, A or B, for holding higher power in the conversation. Give a score on how contradicting the descriptions are based on the following rubric.
+
+Rubric:
+1: Description [1] and [2] mention the somewhat similar behavior of the speaker, while provide different reasonings on how such behavior could indicate higher power in the conversation.
+2: Description [1] and [2] mention different behaviors of the speaker, and provide different reasonings of why such behaviors could indicate higher power in the conversation.
+3: Description [1] and [2] mention somewhat contradictory behaviors of the speaker, and provide different reasoning of why such behaviors could indicate higher power in the conversation.
+4: Description [1] and [2] mention somewhat contradictory behaviors of the speaker, but provide somewhat similar reasoning of why such behaviors could indicate higher power in the conversation.
+5: Description [1] and [2] mention contradictory behaviors of the speaekr, and provide somewhat similar reasonsings of why such behaviors could indicate higher power in the conversation.
+
+Descriptions:
+[1] {description_a}
+[2] {description_b}
+
+In your response, provide the similarity score of [1] and [2]. Only print '1', '2', '3', '4' or '5'.
+
+Score:

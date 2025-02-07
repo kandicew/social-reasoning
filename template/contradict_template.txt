@@ -1,0 +1,14 @@
+In this task you are given two descriptions [1] and [2] about the power dynamics of the the same conversation between A and B. You will need to give a similarity score of two descriptions based on a 3-point rubric.
+
+Rubric:
+1: it means the descriptions mostly contradict each other, for example, the descriptions mention the same behavior leads to contradictory interpretations.
+2: it means the descriptions are neither contradictory or similar, focusing on different aspects in reasoning about conversation power dynamics.
+3: it means the descriptions are focus on very similar aspects in reasoning about conversation power dynamics, for example, the descriptions mention the same behavior of one person and provide similar rationales.
+
+Descriptions:
+[1] {description_a}
+[2] {description_b}
+
+In your response, provide the similarity score of [1] and [2] without explanations.
+
+Score:

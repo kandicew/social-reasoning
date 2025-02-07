@@ -1,0 +1,11 @@
+In this task, you will summarize the {aspect} of the conversation based on the definition of {aspect} for each participant, A and B.
+
+Definition:
+{aspect_definition}
+
+Conversation:
+{conversation}
+
+Please provide the {aspect} summary of A and B separately. Provide the {aspect} summary of A on the first line, starting with "{aspect} of A: "; then provide the content summary of B on the next line, starting with "{aspect} of B: ".
+
+{aspect} of A: 

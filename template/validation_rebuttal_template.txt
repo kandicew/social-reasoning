@@ -1,0 +1,9 @@
+In this task, you will need to decide whether the Rebuttal is valid to counter the Reason to indicate {high} has more power than {low} in a conversation between A and B. Respond with Yes or No. When uncertain, output No.
+
+Reason:
+{reason}
+
+Rebuttal:
+{rebuttal}
+
+output:
