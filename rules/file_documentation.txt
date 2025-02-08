@@ -1,0 +1,175 @@
+number of variable 98 (2 universal, 24 for each aspect)
+number of factor 75 (3 universal, 18 for each aspect)
+potential of power a (same with p b) ----------------------------------------------------------------------(starting potentials, universal)----------------------------------------------------------------------
+potential of power b
+potential of reason 1a (grounding potential and valid potential) ----------------------------------------------------------------------(starting potentials, style)----------------------------------------------------------------------
+potential of reason 2a (reason.grounding_potental & reason.valid_potential)
+potential of reason 3a
+potential of reason 1b
+potential of reason 2b
+potential of reason 3b
+potential of rebuttal 1a (rebuttal potential and valid potential)
+potential of rebuttal 2a (rebuttal.valid_potential & rebuttal.grounding_potential)
+potential of rebuttal 3a
+potential of rebuttal 1b
+potential of rebuttal 2b
+potential of rebuttal 3b
+potential of same(a1 b1) (similarity score)
+potential of same(a1 b2) (aspect.similarity_score)
+potential of same(a1 b3)
+potential of same(a2 b2)
+potential of same(a2 b3)
+potential of same(a3 b3)
+potential of contradict(a1 a2) (contradition score)
+potential of contradict(a1 a3) (aspect.contradict_score_a)
+potential of contradict(a2 a3)
+potential of contradict(b1 b2) (aspect.contradict_score_b)
+potential of contradict(b1 b3)
+potential of contradict(b2 b3)
+potential of reason 1a (grounding potential and valid potential) ----------------------------------------------------------------------(starting potentials, content)----------------------------------------------------------------------
+potential of reason 2a (reason.grounding_potental & reason.valid_potential)
+potential of reason 3a
+potential of reason 1b
+potential of reason 2b
+potential of reason 3b
+potential of rebuttal 1a (rebuttal potential and valid potential)
+potential of rebuttal 2a (rebuttal.valid_potential & rebuttal.grounding_potential)
+potential of rebuttal 3a
+potential of rebuttal 1b
+potential of rebuttal 2b
+potential of rebuttal 3b
+potential of same(a1 b1) (similarity score)
+potential of same(a1 b2) (aspect.similarity_score)
+potential of same(a1 b3)
+potential of same(a2 b2)
+potential of same(a2 b3)
+potential of same(a3 b3)
+potential of contradict(a1 a2) (contradition score)
+potential of contradict(a1 a3) (aspect.contradict_score_a)
+potential of contradict(a2 a3)
+potential of contradict(b1 b2) (aspect.contradict_score_b)
+potential of contradict(b1 b3)
+potential of contradict(b2 b3)
+potential of reason 1a (grounding potential and valid potential) ----------------------------------------------------------------------(starting potentials, coordination)----------------------------------------------------------------------
+potential of reason 2a (reason.grounding_potental & reason.valid_potential)
+potential of reason 3a
+potential of reason 1b
+potential of reason 2b
+potential of reason 3b
+potential of rebuttal 1a (rebuttal potential and valid potential)
+potential of rebuttal 2a (rebuttal.valid_potential & rebuttal.grounding_potential)
+potential of rebuttal 3a
+potential of rebuttal 1b
+potential of rebuttal 2b
+potential of rebuttal 3b
+potential of same(a1 b1) (similarity score)
+potential of same(a1 b2) (aspect.similarity_score)
+potential of same(a1 b3)
+potential of same(a2 b2)
+potential of same(a2 b3)
+potential of same(a3 b3)
+potential of contradict(a1 a2) (contradition score)
+potential of contradict(a1 a3) (aspect.contradict_score_a)
+potential of contradict(a2 a3)
+potential of contradict(b1 b2) (aspect.contradict_score_b)
+potential of contradict(b1 b3)
+potential of contradict(b2 b3)
+potential of reason 1a (grounding potential and valid potential) ----------------------------------------------------------------------(starting potentials,engagement)----------------------------------------------------------------------
+potential of reason 2a (reason.grounding_potental & reason.valid_potential)
+potential of reason 3a
+potential of reason 1b
+potential of reason 2b
+potential of reason 3b
+potential of rebuttal 1a (rebuttal potential and valid potential)
+potential of rebuttal 2a (rebuttal.valid_potential & rebuttal.grounding_potential)
+potential of rebuttal 3a
+potential of rebuttal 1b
+potential of rebuttal 2b
+potential of rebuttal 3b
+potential of same(a1 b1) (similarity score)
+potential of same(a1 b2) (aspect.similarity_score)
+potential of same(a1 b3)
+potential of same(a2 b2)
+potential of same(a2 b3)
+potential of same(a3 b3)
+potential of contradict(a1 a2) (contradition score)
+potential of contradict(a1 a3) (aspect.contradict_score_a)
+potential of contradict(a2 a3)
+potential of contradict(b1 b2) (aspect.contradict_score_b)
+potential of contradict(b1 b3)
+potential of contradict(b2 b3)
+xor power a power b ----------------------------------------------------------------------(starting rules, universal)----------------------------------------------------------------------
+power a -> at least one of the reasons for a is true
+power b -> at least one of the reasons for b is true
+xor reason 1a rebuttal 1a ----------------------------------------------------------------------(starting rule, style)----------------------------------------------------------------------
+xor reason 2a rebuttal 2a
+xor
+xor reason 1b reubttal 1b
+xor
+xor
+same(a1 b1) -> only one of these hold (at most)
+same(a1 b2)
+same(a1 b3)
+same(a2 b2)
+same(a2 b3)
+same(a3 b3)
+contradict(a1 a2)
+contradict(a1 a3)
+contradict(a2 a3)
+contradict(b1 b2)
+contradict(b1 b3)
+contradict(b2 b3)
+xor reason 1a rebuttal 1a ----------------------------------------------------------------------(starting rule, content)----------------------------------------------------------------------
+xor reason 2a rebuttal 2a
+xor
+xor reason 1b reubttal 1b
+xor
+xor
+same(a1 b1) -> only one of these hold (at most)
+same(a1 b2)
+same(a1 b3)
+same(a2 b2)
+same(a2 b3)
+same(a3 b3)
+contradict(a1 a2)
+contradict(a1 a3)
+contradict(a2 a3)
+contradict(b1 b2)
+contradict(b1 b3)
+contradict(b2 b3)
+xor reason 1a rebuttal 1a ----------------------------------------------------------------------(starting rule, coordination)----------------------------------------------------------------------
+xor reason 2a rebuttal 2a
+xor
+xor reason 1b reubttal 1b
+xor
+xor
+same(a1 b1) -> only one of these hold (at most)
+same(a1 b2)
+same(a1 b3)
+same(a2 b2)
+same(a2 b3)
+same(a3 b3)
+contradict(a1 a2)
+contradict(a1 a3)
+contradict(a2 a3)
+contradict(b1 b2)
+contradict(b1 b3)
+contradict(b2 b3)
+xor reason 1a rebuttal 1a ----------------------------------------------------------------------(starting rule, engagement)----------------------------------------------------------------------
+xor reason 2a rebuttal 2a
+xor
+xor reason 1b reubttal 1b
+xor
+xor
+same(a1 b1) -> only one of these hold (at most)
+same(a1 b2)
+same(a1 b3)
+same(a2 b2)
+same(a2 b3)
+same(a3 b3)
+contradict(a1 a2)
+contradict(a1 a3)
+contradict(a2 a3)
+contradict(b1 b2)
+contradict(b1 b3)
+contradict(b2 b3)
